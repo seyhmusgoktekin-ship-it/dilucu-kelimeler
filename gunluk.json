@@ -1,0 +1,197 @@
+{
+ "title": "Günün kelimeleri",
+ "description": "Her gün internetten gelen yeni kelimeler ve ifadeler.",
+ "items": [
+  {
+   "date": "2026-10-30",
+   "en": "plot twist",
+   "kind": "phrase",
+   "tone": "informal",
+   "senses": [
+    {
+     "tr": "beklenmedik gelişme, ters köşe",
+     "pos": "noun",
+     "example": "Plot twist: the guy she was dating turned out to be her new boss.",
+     "exampleTr": "Ters köşe: çıktığı adam yeni patronu çıktı.",
+     "hl": "Plot twist"
+    }
+   ],
+   "alternatives": [
+    "twist",
+    "curveball"
+   ],
+   "note": "Dizilerden çıkıp günlük konuşmaya geçti; şaşırtıcı bir haberi duyururken söylenir."
+  },
+  {
+   "date": "2026-10-30",
+   "en": "spoiler alert",
+   "kind": "phrase",
+   "tone": "informal",
+   "senses": [
+    {
+     "tr": "dikkat, sürprizi bozacağım",
+     "pos": "expression",
+     "example": "Spoiler alert: everybody dies in the last episode.",
+     "exampleTr": "Sürprizi bozuyorum: son bölümde herkes ölüyor.",
+     "hl": "Spoiler alert"
+    }
+   ],
+   "alternatives": [
+    "no spoilers"
+   ],
+   "note": "Dizinin ya da filmin sonunu söylemeden önce uyarı olarak kullanılır."
+  },
+  {
+   "date": "2026-10-30",
+   "en": "cliffhanger",
+   "kind": "word",
+   "tone": "neutral",
+   "senses": [
+    {
+     "tr": "merak içinde bırakan son, kritik yerde biten bölüm",
+     "pos": "noun",
+     "example": "The season ended on a huge cliffhanger, and now I have to wait a year.",
+     "exampleTr": "Sezon çok kritik bir yerde bitti, şimdi bir yıl beklemem lazım.",
+     "hl": "cliffhanger"
+    }
+   ],
+   "alternatives": [
+    "suspense"
+   ],
+   "note": "Bölüm ya da sezon en heyecanlı anda bittiğinde."
+  },
+  {
+   "date": "2026-10-30",
+   "en": "season finale",
+   "kind": "phrase",
+   "tone": "neutral",
+   "senses": [
+    {
+     "tr": "sezon finali",
+     "pos": "noun",
+     "example": "Did you watch the season finale last night? I'm still in shock.",
+     "exampleTr": "Dün akşam sezon finalini izledin mi? Hâlâ şoktayım.",
+     "hl": "season finale"
+    }
+   ],
+   "alternatives": [
+    "finale"
+   ],
+   "note": "Dizilerin sezon son bölümü; dizi tamamen bitiyorsa 'series finale' denir."
+  },
+  {
+   "date": "2026-10-30",
+   "en": "jump scare",
+   "kind": "phrase",
+   "tone": "informal",
+   "senses": [
+    {
+     "tr": "ani korkutma sahnesi",
+     "pos": "noun",
+     "example": "That movie had way too many jump scares for me.",
+     "exampleTr": "O filmde benim için fazla ani korkutma sahnesi vardı.",
+     "hl": "jump scares"
+    }
+   ],
+   "alternatives": [
+    "scare"
+   ],
+   "note": "Korku filmlerinde aniden bir şeyin çıkıp seyirciyi zıplattığı an."
+  },
+  {
+   "date": "2026-10-31",
+   "en": "trick or treat",
+   "kind": "sentence",
+   "tone": "neutral",
+   "senses": [
+    {
+     "tr": "şeker mi şaka mı",
+     "pos": "expression",
+     "example": "The kids knocked on our door and yelled, \"Trick or treat!\"",
+     "exampleTr": "Çocuklar kapımızı çalıp \"Şeker mi şaka mı!\" diye bağırdı.",
+     "hl": "Trick or treat"
+    }
+   ],
+   "alternatives": [],
+   "note": "31 Ekim'de Cadılar Bayramı'nda kapı kapı dolaşan çocukların sözü."
+  },
+  {
+   "date": "2026-10-31",
+   "en": "spooky",
+   "kind": "word",
+   "tone": "informal",
+   "senses": [
+    {
+     "tr": "ürkütücü, tekinsiz",
+     "pos": "adjective",
+     "example": "This old house gets really spooky after dark.",
+     "exampleTr": "Bu eski ev hava kararınca gerçekten tekinsiz oluyor.",
+     "hl": "spooky"
+    }
+   ],
+   "alternatives": [
+    "creepy",
+    "eerie"
+   ],
+   "note": "Hafif, eğlenceli korku için; 'spooky season' Ekim ayı demek."
+  },
+  {
+   "date": "2026-10-31",
+   "en": "dress up",
+   "kind": "phrase",
+   "tone": "neutral",
+   "senses": [
+    {
+     "tr": "kostüm giymek, kılık değiştirmek; şık giyinmek",
+     "pos": "phrasal verb",
+     "example": "What are you dressing up as for Halloween this year?",
+     "exampleTr": "Bu yıl Cadılar Bayramı'nda ne kılığına gireceksin?",
+     "hl": "dressing up"
+    }
+   ],
+   "alternatives": [
+    "wear a costume"
+   ],
+   "note": "'dress up as' bir kılığa girmek; tek başına şık giyinmek de demek."
+  },
+  {
+   "date": "2026-10-31",
+   "en": "give someone the creeps",
+   "kind": "phrase",
+   "tone": "informal",
+   "senses": [
+    {
+     "tr": "birinin tüylerini ürpertmek",
+     "pos": "idiom",
+     "example": "That doll in the corner gives me the creeps.",
+     "exampleTr": "Köşedeki o oyuncak bebek tüylerimi ürpertiyor.",
+     "hl": "gives me the creeps"
+    }
+   ],
+   "alternatives": [
+    "freak someone out"
+   ],
+   "note": "Rahatsız edici, ürkütücü bir şey ya da kişi için."
+  },
+  {
+   "date": "2026-10-31",
+   "en": "scared stiff",
+   "kind": "phrase",
+   "tone": "informal",
+   "senses": [
+    {
+     "tr": "korkudan donakalmış",
+     "pos": "idiom",
+     "example": "I was scared stiff when I heard footsteps upstairs.",
+     "exampleTr": "Üst katta ayak sesleri duyunca korkudan donakaldım.",
+     "hl": "scared stiff"
+    }
+   ],
+   "alternatives": [
+    "frozen with fear",
+    "terrified"
+   ],
+   "note": "Korkudan kıpırdayamayacak hâle gelmek."
+  }
+ ]
+}
